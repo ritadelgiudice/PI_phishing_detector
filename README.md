@@ -1,4 +1,4 @@
-# 🛡️ Projeto: Detector Inteligente de Mensagens, Arquivos e URLs
+# Projeto: Detector Inteligente de Mensagens, Arquivos e URLs
 
 **Descrição e Desenvolvedores**
 
@@ -56,7 +56,7 @@ Tudo é substituído por:
 
 ---
 
-### 🔷 1.3 Detector de Links Suspeitos
+### 1.3 Detector de Links Suspeitos
 
 O programa identifica:
 
@@ -73,7 +73,7 @@ Deseja abrir este link seguro? (s/n)
 
 ---
 
-### 🔷 1.4 Leitura de Arquivos
+### 1.4 Leitura de Arquivos
 
 O sistema lê automaticamente:
 
@@ -84,7 +84,7 @@ O texto é extraído e enviado para análise.
 
 ---
 
-### 🔷 2.5 Interface Gráfica Moderna
+### 2.5 Interface Gráfica Moderna
 
 A interface Tkinter inclui:
 
@@ -98,9 +98,9 @@ O objetivo final é deixar a interface o mais **bonita e funcional possível**.
 
 ---
 
-# 📌 2. Como Usar o Sistema
+#  2. Como Usar o Sistema
 
-## ▶️ 2.1 Rodar o Programa
+## 2.1 Rodar o Programa
 
 No terminal:
 
