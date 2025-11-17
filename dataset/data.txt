@@ -1,0 +1,26 @@
+# ====== TEXTOS FALSOS DE PHISHING (MALICIOSOS) ======
+MALICIOSO | Clique para atualizar sua senha: http://bank-login-seguro.com
+MALICIOSO | Sua conta será bloqueada hoje! Acesse: http://seguranca-nubank-login.online
+MALICIOSO | Atualize seus dados do banco: http://itau-atualizacao.app
+MALICIOSO | Seu pacote está retido. Regularize aqui: http://correios-brasil-entrega.xyz
+MALICIOSO | Baixe sua nota fiscal urgente: http://nfse-brasil-download.net
+MALICIOSO | Pague o boleto atrasado: http://cobranca-urgente-brasil.top
+MALICIOSO | Confirme sua identidade: http://verificacao-conta-br.online
+MALICIOSO | Acesso restrito — desbloqueie agora: http://login-seguro-clientes.net
+MALICIOSO | Seu CPF entrou em auditoria. Examine aqui: http://consulta-cpf-br.top
+MALICIOSO | Seu PIX foi bloqueado. Reative: http://reativar-pix.app
+MALICIOSO | Você ganhou um prêmio! Resgate: http://premio-gratis-click.xyz
+MALICIOSO | Atualize sua carteira digital: http://wallet-update-security.app
+MALICIOSO | Necessário atualizar segurança: http://secure-authentication-br.online
+
+# ====== TEXTOS SEGUROS (BENIGNOS) ======
+SEGURO | Acesse seu extrato no site oficial: https://www.bb.com.br
+SEGURO | Portal do Governo: https://www.gov.br
+SEGURO | Site oficial da Samsung: https://www.samsung.com/br
+SEGURO | Universidade XYZ: https://www.ifsp.edu.br
+SEGURO | Artigo de tecnologia: https://www.tecmundo.com.br
+SEGURO | Notícias gerais: https://g1.globo.com
+SEGURO | Email corporativo interno. Sem links externos maliciosos.
+SEGURO | Documento enviado por colega contendo instruções de trabalho.
+SEGURO | Reunião agendada — link do Teams: https://teams.microsoft.com
+SEGURO | Alerta de atualização do Windows: https://www.microsoft.com
